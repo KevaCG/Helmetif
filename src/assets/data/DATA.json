@@ -1,0 +1,769 @@
+[{
+        "id": 1,
+        "nombre": "Casco Integral SHAFT SH-560 Energy",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1498834-800-auto?v=638476048522670000&width=800&height=auto&aspect=true",
+        "referencia": "69443",
+        "precio": "$238.000",
+        "peso": "1450+-50gr",
+        "material": "TERMOPLÁSTICO DE ALTA RESISTENCIA (ABS)",
+        "cantidad": "3",
+        "acolchado": "Diseñado con materiales textiles y espuma que garantizan su comodidad",
+        "ventilacion": "CÁMARAS FRONTALES SUPERIORES E INFERIORES Y CÁMARA TRASERA PARA LA SALIDA DEL AIRE.",
+        "href": "'#'",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Casco Integral NEXX Y.10OR Urbangram",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1491874-800-auto?v=638460538320600000&width=800&height=auto&aspect=true",
+        "referencia": "77840",
+        "precio": "$1.100.000",
+        "peso": "1575g ± 50",
+        "material": "Termoplástico de alta resistencia tipo Polyfusion.",
+        "cantidad": "1",
+        "acolchado": "Tejido X-Mart Dry con propiedades anti alergénicas y antibacterianas.",
+        "ventilacion": "FRONTAL SUPERIOR, FRONTAL INFERIOR Y EXTRACTORES DE CALOR TRASEROS.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Casco Integral AGV PISTA_GP_RR_MONO/2206 Solid_carbon_red",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1481218-800-auto?v=638445795120230000&width=800&height=auto&aspect=true",
+        "referencia": "77823",
+        "precio": "$5.000.000",
+        "peso": "1.550gr ± 50",
+        "material": "FIBRA DE CARBONO",
+        "cantidad": "1",
+        "acolchado": "Tejido Shalimar antibacteriano e hipoalergénico, microfibra transpirable y elástica con Microsense. 2DRY Absorción instantánea del sudor y Sistema de extracción en caso de emergencia.",
+        "ventilacion": "FRONTAL SUPERIOR, FRONTAL INFERIOR Y EXTRACTORES DE CALOR TRASEROS.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Casco Integral SHAFT PRO SHPRO-620C EVO Solid_3k",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1469720-800-auto?v=638406730101870000&width=800&height=auto&aspect=true",
+        "referencia": "77525",
+        "precio": "$1.250.000",
+        "peso": "1,255 g ± 50",
+        "material": "FIBRA DE CARBONO",
+        "cantidad": "4",
+        "acolchado": "Diseñado con materiales textiles y espuma que garantizan su comodidad",
+        "ventilacion": "CÁMARAS FRONTALES SUPERIORES E INFERIORES Y CÁMARA TRASERA PARA LA SALIDA DEL AIRE.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Casco Integral SHAFT SH-560 Handmade_evo",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1445457-800-auto?v=638349934142170000&width=800&height=auto&aspect=true",
+        "referencia": "71634",
+        "precio": "$289.999",
+        "peso": "1450+-50gr",
+        "material": "TERMOPLÁSTICO DE ALTA RESISTENCIA (ABS)",
+        "cantidad": "1",
+        "acolchado": "Diseñado con materiales textiles y espuma que garantizan su comodidad",
+        "ventilacion": "CÁMARAS FRONTALES SUPERIORES E INFERIORES Y CÁMARA TRASERA PARA LA SALIDA DEL AIRE.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Casco Integral NOLAN N-60.6 G.rep_a.canet_test_(48)",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1487944-800-auto?v=638460160261400000&width=800&height=auto&aspect=true",
+        "referencia": "71394",
+        "precio": "$1.100.000",
+        "peso": "1450±50 gr",
+        "material": "LEXAN®",
+        "cantidad": "2",
+        "acolchado": "CLIMA COMFORT con tejidos microperforados de doble densidad.",
+        "ventilacion": "VENTILACIONES SUPERIORES, VENTILACIÓN EN LA MENTONERA Y EXTRACTORES DE CALOR.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Casco Integral NEXX X.R3R_CARBONO Hagibis",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1492178-800-auto?v=638461026130930000&width=800&height=auto&aspect=true",
+        "referencia": "74062",
+        "precio": "$3.200.000",
+        "peso": "1350g +/- 50g",
+        "material": "FIBRA DE CARBONO",
+        "cantidad": "2",
+        "acolchado": "Tejido X-Mart Dry con propiedades anti alergénicas y antibacterianas, con sistema de extracción en caso de emergencia.",
+        "ventilacion": "FRONTAL SUPERIOR, FRONTAL INFERIOR Y EXTRACTORES DE CALOR TRASEROS.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Casco Abatible ICH ICH-3110 Message",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1489388-800-auto?v=638460263117230000&width=800&height=auto&aspect=true",
+        "referencia": "78097",
+        "precio": "$155.000",
+        "peso": "1,340g ± 50",
+        "material": "TERMOPLÁSTICO DE ALTA RESISTENCIA (ABS)",
+        "cantidad": "1",
+        "acolchado": "Diseñado con materiales textiles y espuma que garantizan su comodidad",
+        "ventilacion": "CÁMARAS FRONTALES SUPERIORES E INFERIORES Y CÁMARA TRASERA PARA LA SALIDA DEL AIRE.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Casco Abierto/acc SHAFT SH-225PILOT_EVO Top",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1499482-800-auto?v=638477596953430000&width=800&height=auto&aspect=true",
+        "referencia": "78979",
+        "precio": "$310.000",
+        "peso": "1,280 g ± 50",
+        "material": "TERMOPLÁSTICO DE ALTA RESISTENCIA (ABS)",
+        "cantidad": "3",
+        "acolchado": "Diseñado con materiales textiles y espuma que garantizan su comodidad",
+        "ventilacion": "VENTILACIONES SUPERIORES, VENTILACIÓN EN LA MENTONERA Y EXTRACTORES DE CALOR.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Casco Multipropósito LS2 MX-701_EXPLORER_CARBON Edge",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1413784-800-auto?v=638301472323870000&width=800&height=auto&aspect=true",
+        "referencia": "76571",
+        "precio": "$3.254.998,86",
+        "peso": "1350 g ± 50",
+        "material": "FIBRA DE CARBONO",
+        "cantidad": "2",
+        "acolchado": "Tejido Shalimar antibacteriano, transpirable e hipoalergénico, tejido Nabuk con tratamiento resistente al agua.",
+        "ventilacion": "ABERTURAS DE VENTILACIÓN DELANTERAS SUPERIORES E INFERIORES, EXTRACTORES TRASEROS DE CALOR, LA TOMA DE AIRE DE LA MENTONERA SE PUEDE QUITAR SIN UTILIZAR HERRAMIENTAS Y SUSTITUIR CON NA REJILLA OFF ROAD",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Casco Modular NOLAN N30-4_P Uncharted_(29)",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1294143-800-auto?v=638242783901370000&width=800&height=auto&aspect=true",
+        "referencia": "74671",
+        "precio": "$809.999,66",
+        "peso": "1290Gr",
+        "material": "LEXAN®",
+        "cantidad": "5",
+        "acolchado": "CLIMA COMFORT con tejidos microperforados de doble densidad.",
+        "ventilacion": "FRONTAL SUPERIOR, FRONTAL INFERIOR Y EXTRACTORES DE CALOR TRASEROS.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "nombre": "Casco Cross LS2 MX-703_X-FORCE Solid Carbon",
+        "imgUrl": "https://inducascos.vtexassets.com/arquivos/ids/1415550-800-auto?v=638303070069370000&width=800&height=auto&aspect=true",
+        "referencia": "72126",
+        "precio": "$2.199.999,75",
+        "peso": "GR 1200+/-50",
+        "material": "FIBRA DE CARBONO",
+        "cantidad": "2",
+        "acolchado": "Tapizado transpirable, hipoalergénico cortado a laser con sistema de extracción en caso de emergencia.",
+        "ventilacion": "VENTILACIONES SUPERIORES, VENTILACIÓN EN LA MENTONERA Y EXTRACTORES DE CALOR.",
+        "href": "#",
+        "rating": 3.9,
+        "reviewCount": 117,
+        "colors": [{
+                "name": "White",
+                "class": "bg-white",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Gray",
+                "class": "bg-gray-200",
+                "selectedClass": "ring-gray-400"
+            },
+            {
+                "name": "Black",
+                "class": "bg-gray-900",
+                "selectedClass": "ring-gray-900"
+            }
+        ],
+        "sizes": [{
+                "name": "XXS",
+                "inStock": true
+            },
+            {
+                "name": "XS",
+                "inStock": true
+            },
+            {
+                "name": "S",
+                "inStock": true
+            },
+            {
+                "name": "M",
+                "inStock": true
+            },
+            {
+                "name": "L",
+                "inStock": true
+            },
+            {
+                "name": "XL",
+                "inStock": true
+            },
+            {
+                "name": "XXL",
+                "inStock": true
+            },
+            {
+                "name": "XXXL",
+                "inStock": false
+            }
+        ]
+    }
+]
