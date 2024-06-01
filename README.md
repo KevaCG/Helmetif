@@ -5,4 +5,5 @@ Installation:
 1. Git clone https://github.com/KevaCG/Helmetif.git
 2. Cd helmetif
 3. Npm install
-4. Enjoy
+4. Npm run dev
+5. Enjoy
